@@ -57,7 +57,7 @@
 
 <div align="center">
 
-<a href="https://github.com/tahfaribtw/about"><picture><source media="(prefers-color-scheme: dark)" srcset="./cards/project-1.svg"><img src="./cards/project-1-light.svg" alt="about" width="412"></picture></a>
+<a href="https://github.com/tahfaribtw/tahfaribtw"><picture><source media="(prefers-color-scheme: dark)" srcset="./cards/project-1.svg"><img src="./cards/project-1-light.svg" alt="tahfaribtw" width="412"></picture></a>
 <a href="https://github.com/tahfaribtw/portfolio"><picture><source media="(prefers-color-scheme: dark)" srcset="./cards/project-2.svg"><img src="./cards/project-2-light.svg" alt="portfolio" width="412"></picture></a>
 
 </div>
@@ -71,6 +71,7 @@
 <div align="center">
 
 <a href="https://github.com/tahfaribtw"><picture><source media="(prefers-color-scheme: dark)" srcset="./cards/connect-github.svg"><img src="./cards/connect-github-light.svg" alt="GitHub" width="270"></picture></a>
+<a href="mailto:tahfarithedev@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="./cards/connect-email.svg"><img src="./cards/connect-email-light.svg" alt="Email" width="270"></picture></a>
 
 </div>
 
