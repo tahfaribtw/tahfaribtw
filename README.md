@@ -59,7 +59,6 @@
 
 <a href="https://github.com/tahfaribtw/tahfaribtw"><picture><source media="(prefers-color-scheme: dark)" srcset="./cards/project-1.svg"><img src="./cards/project-1-light.svg" alt="tahfaribtw" width="412"></picture></a>
 <a href="https://github.com/tahfaribtw/neutral"><picture><source media="(prefers-color-scheme: dark)" srcset="./cards/project-2.svg"><img src="./cards/project-2-light.svg" alt="neutral" width="412"></picture></a>
-<a href="https://github.com/tahfaribtw/tahfaribtw.github.io"><picture><source media="(prefers-color-scheme: dark)" srcset="./cards/project-3.svg"><img src="./cards/project-3-light.svg" alt="tahfaribtw.github.io" width="412"></picture></a>
 
 </div>
 
